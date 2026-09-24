@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=4">
-  <img src="./banner-dark.svg?v=4" alt="Profile banner for Prudhvi Raj Medikonduri, full-stack engineer working on AI, RAG, and identity and access management">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=5">
+  <img src="./banner-dark.svg?v=5" alt="Profile banner for Prudhvi Raj Medikonduri, full-stack engineer working on AI, RAG, and identity and access management">
 </picture>
 
 # Prudhvi Raj Medikonduri
