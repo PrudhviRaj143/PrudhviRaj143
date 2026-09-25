@@ -18,10 +18,10 @@ I build backend systems, AI-assisted tooling, and identity & access infrastructu
 
 ## Experience
 
-- **Credit Karma** — IAM / Security Engineering: identity lifecycle automation, Terraform IAM workflows, SOX access controls, GenAI assistant (MCP · LangChain · RAG)
-- **Diadem Capital (via PreraTech)** — Founding Engineer / Project Lead: Spring Boot + PostgreSQL + React platform, GPT-powered startup–investor matching, LangChain RAG with vector search on AWS
-- **TCS — Goldman Sachs engagement** — Java / Spring Boot: Kafka-based services, Oracle SQL, financial reconciliation systems
-- **Lumen Technologies** — Intern, Oct 2022 – May 2024
+- **Credit Karma (Intuit)** — IAM / Security Engineering: identity lifecycle automation, Terraform IAM workflows, SOX access controls, GenAI assistant (MCP · LangChain · RAG) — Nov 2024 – Present
+- **Diadem Capital** — Founding Engineer / Project Lead: Spring Boot + PostgreSQL + React platform, GPT-powered startup–investor matching, LangChain RAG with vector search on AWS — May 2024 – Nov 2024
+- **Goldman Sachs** — Java / Spring Boot: Kafka-based services, Oracle SQL, financial reconciliation systems — Jul 2019 – Sep 2022
+- **Lumen Technologies** — Intern — Oct 2022 – May 2024
 
 ## Currently building
 
@@ -29,7 +29,7 @@ I build backend systems, AI-assisted tooling, and identity & access infrastructu
 
 ## Engineering stack
 
-`Java` `Spring Boot` `React` `PostgreSQL` `Kafka` `Oracle SQL` `GCP IAM` `SailPoint` `Terraform` `AWS` `LangChain` `MCP` `RAG` `Vector Search` `Salesforce`
+`Java` `Spring Boot` `React` `TypeScript` `Python` `PostgreSQL` `Oracle SQL` `Kafka` `GCP IAM` `SailPoint` `Okta` `OAuth 2.0 / OIDC` `SCIM` `Terraform` `AWS` `Docker` `Kubernetes` `LangChain` `MCP` `OpenAI APIs` `RAG` `pgvector` `Vector Search` `JUnit 5` `Salesforce`
 
 ## Education
 
